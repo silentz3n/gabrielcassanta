@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com front-end,
 - 🌱 Estou aprendendo ReactJS.
 
-<div style="display: inline-block">
+<div>
   <a href="www.github.com/gabrielcassanta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcassanta&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcassanta&layout=compact&theme=dracula"/>
