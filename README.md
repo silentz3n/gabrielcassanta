@@ -1,7 +1,7 @@
-### Olá, pessoal! Eu sou o Gabriel Cassanta. 👋
+### Hello everybody! I am Gabriel Cassanta. 👋
 
-- 🔭 Atualmente trabalho com front-end,
-- 🌱 Estou aprendendo ReactJS.
+- 🔭 I'm currently working with front-end,
+- 🌱 I'm learning ReactJS.
 
 <div>
   <a href="www.github.com/gabrielcassanta">
