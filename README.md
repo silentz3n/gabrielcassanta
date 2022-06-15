@@ -1,7 +1,7 @@
 ### Hello everybody! I am Gabriel Cassanta. 👋
 
 - 🔭 I'm currently working with front-end,
-- 🌱 I'm learning ReactJS.
+- 🌱 Always learning React.
 
 <div>
   <a href="www.github.com/gabrielcassanta">
