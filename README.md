@@ -1,5 +1,7 @@
 ### Hello everybody! I am Gabriel Cassanta. 👋
 
+(React.js | Next.js | Node.js | Javascript | Typescript | HTML | CSS | Java | Spring Boot )
+
 - 🔭 I'm currently working with front-end,
 - 🌱 Always learning.
 
