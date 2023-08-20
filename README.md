@@ -2,7 +2,9 @@
 
 (React.js | Next.js | Node.js | Javascript | Typescript | HTML | CSS | Java | Spring Boot )
 
-- 🔭 I'm currently working with front-end,
+- 🔭 I'm developer at @Compass.uol,
+- 🎓 Bachelor in Computer Science,
+- 🌐 Passionate about web development,
 - 🌱 Always learning.
 
 <div>
