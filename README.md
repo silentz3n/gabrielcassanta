@@ -1,8 +1,8 @@
 ### Hello everybody! I am Gabriel Cassanta. 👋
 
-(React.js | Next.js | Node.js | Javascript | Typescript | HTML | CSS | Java | Spring Boot )
+(React.js | Next.js | Vue.js | Node.js | Javascript | Typescript | HTML | CSS | Java | Spring Boot | PHP | MySQL | PostgreSQL | MongoDB)
 
-- 🔭 I'm developer at @Compass.uol,
+- 🔭 I'm developer at @Nelogica,
 - 🎓 Bachelor in Computer Science,
 - 🌐 Passionate about web development,
 - 🌱 Always learning.
