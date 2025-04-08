@@ -1,16 +1,16 @@
 ### Hello everybody! I am Gabriel Cassanta. 👋
 
-(React.js | Next.js | Vue.js | Node.js | Nest.js | Javascript | Typescript | HTML | CSS | Java | Spring Boot | PHP | MySQL | PostgreSQL | MongoDB)
+(React.js | Next.js | Vue.js | Node.js | Javascript | Typescript | GoLang | PHP | MySQL | PostgreSQL | MongoDB)
 
-- 🔭 I'm developer at @DeliveryMuchBrasil,
+- 🔭 I'm a backend engineer at @DeliveryMuchBrasil,
 - 🎓 Bachelor in Computer Science,
 - 🌐 Passionate about web development,
-- 🌱 Always learning.
+- 🌱 Actually learning Rust.
 
 <div>
-  <a href="www.github.com/gabrielcassanta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcassanta&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcassanta&layout=compact&theme=dracula"/>
+  <a href="www.github.com/silentz3n">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silentz3n&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentz3n&layout=compact&theme=dracula"/>
 </div>
   
   ##
